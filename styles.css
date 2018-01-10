@@ -1,0 +1,10 @@
+body {
+	font-family: 'Open Sans';
+	font-size: 100%;
+	color: #333333;
+	background-color: #FFFFFF;
+}
+.contactMe {
+    color: blue;
+    float: right;
+}
